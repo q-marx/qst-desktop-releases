@@ -4,9 +4,7 @@ This repository contains the official public Windows installer and release notes
 
 ## Download
 
-**[Download QST Desktop v1.0.5](https://github.com/q-marx/qst-desktop-releases/releases/download/v1.0.5/QST-Setup-v1.0.5.exe)**
-
-[View the latest release notes and checksum](https://github.com/q-marx/qst-desktop-releases/releases/latest)
+**[Download the latest QST Desktop installer](https://github.com/q-marx/qst-desktop-releases/releases/latest)**
 
 ## What QST Desktop does
 
@@ -24,10 +22,8 @@ QST does **not** automatically synchronise inventory or orders, and it does not 
 - QST Listing Workspace installed on a Shopify store
 - For direct eBay publishing: an eBay seller account, business policies, dispatch location and category settings
 
-## Verify v1.0.5
+## Verify the installer
 
-- **File:** `QST-Setup-v1.0.5.exe`
-- **Size:** 112,101,742 bytes
-- **SHA-256:** `7b6b1774d995961ab8a5d5d3929ec7bdccfb6e1c815f3cbf1f0036940a2692a0`
+The release includes the installer checksum in `SHA256SUMS.txt`.
 
 For product information and support, visit [Q-MER.CH](https://q-mer.ch/).
